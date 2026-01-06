@@ -17,6 +17,8 @@
 
 ## 🏗 프로젝트 구조 (간략)
 
+````markdown
+
 togetherfarm-front1/
 ├─ components/       # 재사용 가능한 UI 컴포넌트
 │   ├─ ProfileHoverCard.tsx
@@ -31,6 +33,8 @@ togetherfarm-front1/
 │
 ├─ package.json      # 프로젝트 정보 및 의존성
 └─ README.md         # 프로젝트 설명
+
+````
 ---
 
 ## ⚡ 사용 기술
