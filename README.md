@@ -18,15 +18,12 @@
 ## 🏗 프로젝트 구조 (간략)
 
 togetherfarm-front1/
-│
 ├─ components/       # 재사용 가능한 UI 컴포넌트
-│   ├─ HoverCard.tsx
-│   ├─ UserTable.tsx
-│   └─ Switch.tsx
+│   ├─ ProfileHoverCard.tsx
+│   └─ UserTable.tsx
 │
 ├─ pages/            # Next.js 페이지
-│   ├─ index.tsx     # 메인 스플래시 페이지
-│   └─ _app.tsx      # 글로벌 스타일/테마 적용
+│   └─ 스플래시/기타 페이지 파일만 존재
 │
 ├─ public/           # 이미지, 아이콘 등 정적 리소스
 │
@@ -34,7 +31,6 @@ togetherfarm-front1/
 │
 ├─ package.json      # 프로젝트 정보 및 의존성
 └─ README.md         # 프로젝트 설명
-
 ---
 
 ## ⚡ 사용 기술
